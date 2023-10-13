@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 My name is Mansa Thakur, Hello Everyone!!!!, Flaky
 
 Pull git contain file....
 123
+=======
+My name is Mansa Thakur, Hello Everyone!!!!, Flaky Mansa,
+great work
+>>>>>>> branch1
